@@ -1,7 +1,5 @@
 # Robin Lespagnol
 
-![Visites du profil](https://komarev.com/ghpvc/?username=Lespa-R&label=Visites&color=0e75b6&style=flat)
-
 **Conseil data & IA · fondateur de [DataGrow](https://datagrow.me)**
 
 J'aide les PME à tirer parti de leurs données : comprendre ce qu'elles racontent, automatiser ce qui leur fait perdre du temps, et livrer vite des outils qui servent vraiment.
@@ -23,3 +21,5 @@ J'aide les PME à tirer parti de leurs données : comprendre ce qu'elles raconte
 ## Me contacter
 
 📫 lespa@datagrow.me · [LinkedIn](https://linkedin.com/in/robin-data-marketing/) · [datagrow.me](https://datagrow.me)
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Lespa-R&label=visites&color=lightgrey&style=flat-square" alt="visites" height="14"></p>
